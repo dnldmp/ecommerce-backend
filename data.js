@@ -31,6 +31,17 @@ module.exports = {
         rating: 4.3,
         numReviews: 34,
         countInStock: 99
+    },
+    {
+        _id: "4",
+        name: 'Counterspell',
+        category: 'Games',
+        brand: 'Magic the gathering',
+        image: '/d1.jpg',
+        price: 10,
+        rating: 4.3,
+        numReviews: 5,
+        countInStock: 0
     }
 ]
 }
